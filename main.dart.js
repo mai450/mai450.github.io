@@ -59886,7 +59886,7 @@ A.Hu.prototype={
 H(a){var s=null,r=A.abk(s,s,B.f4,s,s,s,0,s,s,s,s,s,s,s,new A.c8(A.mH(20),B.q),s,s,s,s)
 return A.AO(A.abj(A.eo(A.b([A.abD(B.yP,B.m,18),A.b0(s,s,10),A.fv("Download my Resume",A.dr(s,s,B.m,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],t.p),B.aa,B.a4),new A.a3k(this,a),r))}}
 A.a3k.prototype={
-$0(){A.kp(this.b,"https://drive.google.com/file/d/13_YI5e61px49MeVWlknkar65C9araLQ-/view?usp=sharing")},
+$0(){A.kp(this.b,"https://drive.google.com/file/d/1llEzVFi7r5c3Ikjn4g-ODPQhvL2RZKzY/view?usp=sharing")},
 $S:0}
 A.E3.prototype={
 H(a){var s=null
